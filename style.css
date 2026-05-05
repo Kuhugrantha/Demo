@@ -1,0 +1,6 @@
+body { font-family: sans-serif; margin: 40px; text-align: center; background: #f5f7fa; }
+header { background: #0d6efd; color: white; padding: 20px; border-radius: 8px; }
+main { margin-top: 30px; }
+button { padding: 10px 20px; background: #198754; color: white; border: none; cursor: pointer; border-radius: 5px; }
+button:hover { background: #157347; }
+footer { margin-top: 40px; color: #6c757d; font-size: 0.9em; }
